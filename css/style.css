@@ -4,7 +4,7 @@
 body {
   font-family: "Maven Pro", sans-serif;
   padding-top: 70px;
-  background-color: #f0f0f0;
+  /* background-color: #f0f0f0; */
 }
 
 .full-screen {
@@ -322,7 +322,8 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #474559;
+  /* background: #474559; */
+  background-color: yellowgreen;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -330,7 +331,8 @@ b, strong {
 }
 
 .timeline-yr {
-  background: #474559;
+  /* background: #474559; */
+  background-color: yellowgreen;
   border-radius: 100%;
   position: absolute;
   width: 75px;
